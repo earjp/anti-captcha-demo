@@ -1,0 +1,25 @@
+﻿  antiCaptDll.cpp
+d:\program files\opencv\cv\include\cvcompat.h(784): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\tesseract-ocr\include\tesseract\strngs.h(61): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+d:\program files\tesseract-ocr\include\tesseract\unicharset.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+d:\program files\tesseract-ocr\include\tesseract\unicharset.h(274): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+d:\program files\tesseract-ocr\include\tesseract\unicharset.h(299): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(45): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(57): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(586): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(609): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+          d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(595) : 忽略“i”的定义
+          d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(583) : 使用“i”的定义
+d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(609): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(620): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+d:\opencvpro\anticaptdll\anticaptdll\anticaptdll.cpp(625): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     正在创建库 D:\opencvPro\antiCaptDll\Debug\antiCaptDll.lib 和对象 D:\opencvPro\antiCaptDll\Debug\antiCaptDll.exp
+  antiCaptDll.vcxproj -> D:\opencvPro\antiCaptDll\Debug\antiCaptDll.dll
