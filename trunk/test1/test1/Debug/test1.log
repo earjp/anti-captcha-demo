@@ -1,0 +1,24 @@
+﻿  test1.cpp
+d:\program files\opencv\cv\include\cvcompat.h(784): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\tesseract-ocr\include\tesseract\strngs.h(61): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+d:\program files\tesseract-ocr\include\tesseract\unicharset.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+d:\program files\tesseract-ocr\include\tesseract\unicharset.h(274): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+d:\program files\tesseract-ocr\include\tesseract\unicharset.h(299): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+d:\opencvpro\test1\test1\test1.cpp(69): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+d:\opencvpro\test1\test1\test1.cpp(81): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+d:\opencvpro\test1\test1\test1.cpp(611): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+d:\opencvpro\test1\test1\test1.cpp(634): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+          d:\opencvpro\test1\test1\test1.cpp(620) : 忽略“i”的定义
+          d:\opencvpro\test1\test1\test1.cpp(608) : 使用“i”的定义
+d:\opencvpro\test1\test1\test1.cpp(634): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+d:\opencvpro\test1\test1\test1.cpp(645): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+d:\opencvpro\test1\test1\test1.cpp(650): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+  test1.vcxproj -> D:\opencvPro\test1\Debug\test1.exe
